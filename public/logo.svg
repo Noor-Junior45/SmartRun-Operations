@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <rect width="512" height="512" rx="64" fill="#FFC800"/>
+  <g transform="translate(0, 0)">
+    <!-- Smart in bold black -->
+    <text x="76" y="278" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-weight="900" font-size="78" fill="#000000" letter-spacing="-2px">Smart</text>
+    <!-- RUN in green serif/display -->
+    <text x="286" y="278" font-family="'Times New Roman', Georgia, 'Merriweather', serif" font-weight="900" font-size="82" fill="#008822" letter-spacing="-1px">RUN</text>
+  </g>
+</svg>
